@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package VW1;
+
+/**
+ * @author aryan
+ *
+ */
+public class Mainapp {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("This is Aryan");
+
+	}
+
+}
