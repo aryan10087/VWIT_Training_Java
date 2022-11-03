@@ -1,17 +1,9 @@
 package interfaceex;
 
- 
-
 public interface Bounceable {
-    
-    int BOUNCE_FACTOR = 5;
-    
-    void bounce();
-    
-    void setBounceMultiple(int multiple);
-    
-    
-
- 
+	int BOUNCE_FACTOR = 5;
+	
+    void size();
+    void velocity(int multiple);
 
 }
